@@ -36,3 +36,7 @@ pieeg@pieeg.com
 
 #### Support
 PiEEG [Discord](https://discord.gg/tEezqHXWp) 
+
+To cite 
+El Abbassi, Y.; Rakhmatulin, I. PiEEG XR: A WebXR Brain-Computer Interface Platform for Neural-Adaptive Avatar Control in Mixed Reality. Preprints 2026, 2026060016. https://doi.org/10.20944/preprints202606.0016.v1  
+
