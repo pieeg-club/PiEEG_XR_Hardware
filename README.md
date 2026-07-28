@@ -7,8 +7,8 @@
 
 
 ## 🛠️ Electrodes Location 
-10 flat dry silver-silver chloride (Ag/AgCl) electrodes are specialized biosignal sensors used for recording surface biopotentials, ECG/EMG monitoring, and EEG research without requiring messy conductive gels
-
+10 flat dry silver-silver chloride (Ag/AgCl) electrodes are specialized biosignal sensors used for recording surface biopotentials, ECG/EMG monitoring, and EEG research without requiring messy conductive gels  
+Mask - Material：silicone    
 
 <div align="center">
   <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/electrodes%20location.png" width="70%" alt="IronBCI Demo">
