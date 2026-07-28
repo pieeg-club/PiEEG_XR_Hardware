@@ -1,7 +1,7 @@
 # PiEEG_XR  
 
 <div align="center">  
-  <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/pieeg_back.png" width="30%" alt="IronBCI Demo">  
+  <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/pieeg_back.png" width="60%" alt="IronBCI Demo">  
 </div>  
 
 
