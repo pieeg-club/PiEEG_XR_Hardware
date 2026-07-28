@@ -1,7 +1,7 @@
-# PiEEG_XR  
+# PiEEG_XR. Transfer your Emotions and mimic to Virtual Reality    
 
 <div align="center">  
-  <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/pieeg_back.png" width="60%" alt="IronBCI Demo">  
+  <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/pieeg_back.png" width="80%" alt="IronBCI Demo">  
 </div>  
 
 
