@@ -1,4 +1,9 @@
-# PiEEG_XR
+# PiEEG_XR  
+
+<div align="center">  
+  <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/pieeg_back.png" width="30%" alt="IronBCI Demo">  
+</div>  
+
 
 <div align="center">
   <img src="https://github.com/Ildaron/PiEEG_XR/raw/main/Images/pieeg_xr_1.gif" width="30%" alt="IronBCI Demo">
