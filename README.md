@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/electrodes%20location.png" width="30%" alt="IronBCI Demo">
+  <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/electrodes%20location.png" width="70%" alt="IronBCI Demo">
 </div>
 
 
