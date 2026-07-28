@@ -1,6 +1,7 @@
 # PiEEG_XR.     
 Transfer your Emotions and mimic to Virtual Reality        
 It's a page about Hardware.   
+Software - [PiEEG Server](https://github.com/pieeg-club/PiEEG-server) also details in [docs](https://docs.pieeg.com/)   
 
 <div align="center">  
   <img src="https://github.com/pieeg-club/PiEEG_XR_Hardware/blob/main/Images/pieeg_back.png" width="80%" alt="IronBCI Demo">  
